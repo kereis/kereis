@@ -1,18 +1,22 @@
 <h1 align="center">Hi 👋, I'm Kevin Reis</h1>
-<p align="center">I'm a applied computer science student and I like to tinker with random stuff here and there.</p>
+<p align="center">I'm a full-stack developer who likes to tinker with random stuff here and there.</p>
 
 ---
 
 <h3 align="left">About me</h3>
 
-- 🔭 I’m currently working on [LibreWB](https://github.com/LibreWB) - A project to set up an intelligent management of charging stations for electric vehicles
 - 👓 **Professional experiences** in **Java Backend development** and **iOS app development**
+- ⚒ Currently working as a full-stack developer with Spring Boot and React
 - 🆕 Always ready to try out new stuff and to jump in at the deep end 
 - 📫 How to reach me: e-mail, [XING](https://www.xing.com/profile/Kevin_Reis4/cv)
 
 <h3 align="left">Current (other) active projects</h3>
 
 - [traefik-certs-dumper](https://github.com/kereis/traefik-certs-dumper) - A small Docker image which dumps certificates from Traefik's ACME `json` storage into designated file formats
+
+<h3 align="left">Older projects</h3>
+
+- [LibreWB](https://github.com/LibreWB) - A project to set up an intelligent management of charging stations for electric vehicles as a part of a research project during my studies
 - [MeDit](https://github.com/kereis/medit-android) - A Markdown editor for Android, born by the attempt of passing an exam ;p
 
 ---
